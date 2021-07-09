@@ -113,6 +113,7 @@ Create table [loai_like]
 Constraint [pk_loai_like] Primary Key ([id_loai])
 ) 
 go
-
+use mechat
+ select * from dbo.bai_viet
 
 
